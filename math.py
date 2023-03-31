@@ -6,6 +6,10 @@ def subtract (x,y):
     answer = x-y
     return answer
 
+def divide (o,p):
+    answer = o/p
+    return answer
+
 
 def multiply (m,n):
     answer = m*n
